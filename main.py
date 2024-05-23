@@ -2,12 +2,11 @@
 License: Apache
 Organization: UNIR
 """
-"""Integrantes del equipo 1002D
+Integrantes del equipo 1002D
 Juan Carlos Espinosa Ortiz
 Walter David Paiva Zárate
 Daniela Stefany Lopez Lopez
 """
-
 import os
 import sys
 
