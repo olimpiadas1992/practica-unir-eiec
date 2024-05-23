@@ -4,6 +4,8 @@ Organization: UNIR
 """
 """Integrantes del equipo 1002D
 Juan Carlos Espinosa Ortiz
+Walter David Paiva Zárate
+=======
 """
 import os
 import sys
